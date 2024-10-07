@@ -9,7 +9,7 @@ scFTAT: a Single-Cell Annotation Approach Integrating FFT and Improved Transform
 * Setting up scFTAT requires an environment with Python 3.7 or newer, along with Tensorflow and other necessary machine learning libraries.
 * Install all dependencies using pip: `pip install -r requirements.txt`.
 * scFTAT does not require database configuration.
-* After setting up the above files, execute the code in the `train-test.ipynb` file in order.Note that the pkl file needs to be converted to CSV format before running.
+* After setting up the above files, execute the code in the `train-test.py` file in order.Note that the pkl file needs to be converted to CSV format before running.
 * Since scFTAT is primarily used for research and development, it does not have a specific deployment guide. Please integrate it into your project or workflow as needed.
 
 ### Contribution guidelines ###
