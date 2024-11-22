@@ -1,15 +1,15 @@
 # scFTAT
 scFTAT: a Single-Cell Annotation Approach Integrating FFT and Improved Transformer
 
-* ScFTAT is a cell type recognition approach based on FFT and improved Transformer.It aims to provide researchers with a deep learning tool for single-cell classifying tasks.
+* ScFTAT is a cell-type recognition approach based on FFT and an improved Transformer. It aims to provide researchers with a deep learning tool for single-cell classifying tasks.
 * Current version: 1.0
 
 ### Setting up ###
 
-* Setting up scFTAT requires an environment with Python 3.7 or newer, along with Tensorflow and other necessary machine learning libraries.
+* Setting up scFTAT requires an environment with Python 3.7 or newer, Tensorflow, and other necessary machine-learning libraries.
 * Install all dependencies using pip: `pip install -r requirements.txt`.
 * scFTAT does not require database configuration.
-* After setting up the above files, execute the code in the `train-test.py` file in order.Note that the pkl file needs to be converted to CSV format before running.
+* After setting up the above files, execute the code in the `train-test.py` file in order. Note that the pkl file needs to be converted to CSV format before running.
 * Since scFTAT is primarily used for research and development, it does not have a specific deployment guide. Please integrate it into your project or workflow as needed.
 
 ### Contribution guidelines ###
@@ -19,4 +19,4 @@ scFTAT: a Single-Cell Annotation Approach Integrating FFT and Improved Transform
 
 ### Who do I talk to? ###
 
-* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@outlook.com) or Yiyao Chen (221620010005@hhu.edu.cn).
+* Have any questions or issues related to the repository, please contact Dr. Binhua Tang (bh.tang@hhu.edu.cn) or Yiyao Chen (221620010005@hhu.edu.cn).
