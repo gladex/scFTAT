@@ -1,5 +1,5 @@
 # scFTAT
-scFTAT: a Single-Cell Annotation Approach Integrating FFT and Improved Transformer
+scFTAT: a Single-Cell Annotation Method Integrating FFT and Improved Transformer
 
 * ScFTAT is a cell-type recognition approach based on FFT and an improved Transformer. It aims to provide researchers with a deep learning tool for single-cell classifying tasks.
 * Current version: 1.0
