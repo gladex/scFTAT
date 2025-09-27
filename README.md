@@ -19,4 +19,4 @@ scFTAT: a Single-Cell Annotation Method Integrating FFT and Improved Transformer
 
 ### Who do I talk to? ###
 
-* Have any questions or issues related to the repository, please contact Dr. Binhua Tang (bh.tang@hhu.edu.cn) or Yiyao Chen (221620010005@hhu.edu.cn).
+* Have any questions or issues related to the repository, please contact Dr. Binhua Tang (bh.tang@hhu.edu.cn).
